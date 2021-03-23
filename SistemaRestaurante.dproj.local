@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/27 12:26:01.000.479,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/27 12:28:41.000.442,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Login.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/27 12:28:41.000.442,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Login.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/02/27 12:29:14.000.243,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\SistemaRestaurante.dproj=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/02/27 17:08:51.000.588,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/02/27 19:00:56.000.148,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Principal.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/02/27 19:00:56.000.148,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Principal.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Unit1.dfm</Transaction>
+    <Transaction>2019/02/27 21:10:52.000.914,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/02/27 21:11:22.000.191,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Cadastros\Funcionarios.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Unit1.dfm</Transaction>
+    <Transaction>2019/02/27 21:11:22.000.191,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Cadastros\Funcionarios.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/02/28 15:36:32.000.223,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/02/28 15:37:01.000.896,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Unit1.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Produtos\Produtos.dfm</Transaction>
+    <Transaction>2019/02/28 15:37:01.000.896,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistema Restaurante\Produtos\Produtos.pas</Transaction>
+    <Transaction>2019/03/06 12:14:15.000.526,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/06 12:14:40.000.090,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\Cadastros\Cargo.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\Unit1.dfm</Transaction>
+    <Transaction>2019/03/06 12:14:40.000.090,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\Cadastros\Cargo.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/06 12:18:40.000.046,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/06 12:18:57.000.752,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\modulo.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/06 12:18:57.000.752,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\modulo.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\Unit1.dfm</Transaction>
+    <Transaction>2019/03/06 16:48:13.000.883,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Back End\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/11 11:31:49.000.552,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/11 11:31:59.000.685,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Cadastros\Fornecedores.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Unit1.dfm</Transaction>
+    <Transaction>2019/03/11 11:31:59.000.685,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Cadastros\Fornecedores.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/12 19:46:17.000.799,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/12 19:46:28.000.784,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Cadastros\Mesas.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Unit1.dfm</Transaction>
+    <Transaction>2019/03/12 19:46:28.000.784,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Cadastros\Mesas.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/12 20:12:44.000.381,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2019/03/12 20:12:54.000.863,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Cadastros\Pratos.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Unit1.dfm</Transaction>
+    <Transaction>2019/03/12 20:12:54.000.863,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Cadastros\Pratos.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Sistemas Avançado\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2021/02/25 21:23:44.000.428,=C:\PROJETOS\Sistema Restaurante\EntradasProdutos.pas</Transaction>
+    <Transaction>2021/02/25 22:49:25.000.957,=C:\PROJETOS\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2021/02/25 22:50:10.000.132,C:\PROJETOS\Sistema Restaurante\Unit1.pas=C:\PROJETOS\Sistema Restaurante\Movimentacoes\Vendas.pas</Transaction>
+    <Transaction>2021/02/25 22:50:10.000.132,C:\PROJETOS\Sistema Restaurante\Unit1.dfm=C:\PROJETOS\Sistema Restaurante\Movimentacoes\Vendas.dfm</Transaction>
+    <Transaction>2021/02/25 22:51:29.000.391,C:\PROJETOS\Sistema Restaurante\SistemaRestaurante.dproj=C:\PROJETOS\Sistema Restaurante\SistemaRestaurante.dproj</Transaction>
+    <Transaction>2021/03/07 13:54:12.000.324,=C:\PROJETOS\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 13:54:38.000.724,C:\PROJETOS\Sistema Restaurante\Movimentacoes\Movimentacoes.dfm=C:\PROJETOS\Sistema Restaurante\Unit1.dfm</Transaction>
+    <Transaction>2021/03/07 13:54:38.000.724,C:\PROJETOS\Sistema Restaurante\Movimentacoes\Movimentacoes.pas=C:\PROJETOS\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 19:50:10.000.905,=C:\PROJETOS\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 19:50:29.000.795,C:\PROJETOS\Sistema Restaurante\Unit1.dfm=C:\PROJETOS\Sistema Restaurante\Movimentacoes\Gastos.dfm</Transaction>
+    <Transaction>2021/03/07 19:50:29.000.795,C:\PROJETOS\Sistema Restaurante\Unit1.pas=C:\PROJETOS\Sistema Restaurante\Movimentacoes\Gastos.pas</Transaction>
+    <Transaction>2021/03/07 20:51:12.000.219,=C:\PROJETOS\Sistema Restaurante\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 20:51:37.000.007,C:\PROJETOS\Sistema Restaurante\Unit1.pas=C:\PROJETOS\Sistema Restaurante\Movimentacoes\Pagamentos.pas</Transaction>
+    <Transaction>2021/03/07 20:51:37.000.007,C:\PROJETOS\Sistema Restaurante\Unit1.dfm=C:\PROJETOS\Sistema Restaurante\Movimentacoes\Pagamentos.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

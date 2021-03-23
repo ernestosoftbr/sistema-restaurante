@@ -1,0 +1,8 @@
+﻿[DataModule1.tb_cargo]
+Visible=False
+
+[DataModule1.tb_funcionarios]
+
+[DataModule1.tb_pratos]
+Visible=False
+
